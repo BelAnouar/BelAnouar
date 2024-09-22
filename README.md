@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi, I’m @BelAnouar</h2>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"></br>
 
 ### **`Pro-Dev | Sci-Tech`**
 
