@@ -1,22 +1,16 @@
 <h2 align="left">👋 Hi, I’m @BelAnouar</h2>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"><br>
+<p align="left">
+    <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+    I'm a passionate **Full-Stack Developer** with a strong foundation in **Sci-Tech**. From designing dynamic user interfaces to solving back-end challenges, I enjoy building efficient and scalable solutions. 
+</p>
 
-### **`Pro-Dev | Sci-Tech`**
-
-
-
-
-### **`(Programmer  / Full-Stack Dev)`**
-
-
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/31/da/2a/31da2a58d5518a8527300ffbab76b25e.jpg" />
+### **`Pro-Dev | Sci-Tech Enthusiast`**
 
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Stack:</b>
+## 🌟 **My Tech Stack**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -45,8 +39,16 @@
 
 ---
 
+## 📈 **GitHub Stats**
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BelAnouar&show_icons=true&theme=radical" alt="BelAnouar's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelAnouar&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
+
+---
+
+## 🤝 **Let's Connect**
 
 <div align="left">
   <a href="https://discord.com" target="_blank">
@@ -59,9 +61,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## 🔥 **What I'm Working On**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelAnouar&show_icons=true&theme=radical" alt="BelAnouar's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelAnouar&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</div>
+- 🌱 I’m currently learning **TypeScript** and **GraphQL**
+- 🚀 Building a **Next.js** project for a client
+- 💼 Exploring **DevOps** with **Docker** and **Kubernetes**
+
+Feel free to check out my projects or reach out if you'd like to collaborate!
