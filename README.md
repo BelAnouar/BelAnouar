@@ -1,7 +1,6 @@
 <h2 align="left">👋 Hi, I’m @BelAnouar</h2>
 
-<img align="right" height="150"  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img align="right" height="150" src="https://i.pinimg.com/originals/31/da/2a/31da2a58d5518a8527300ffbab76b25e.jpg" />
 
 ---
 
