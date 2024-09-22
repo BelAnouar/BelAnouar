@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi, I’m @BelAnouar</h2>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"></br>
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"><br>
 
 ### **`Pro-Dev | Sci-Tech`**
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Stack:</b>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
