@@ -3,15 +3,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/31/da/2a/31da2a58d5518a8527300ffbab76b25e.jpg" />
 
 ---
-### **`Pro-Dev | Sci-Tech`**
 
-
-## **Blog: https://JairoSaul.com**
-
-### **`(Programmer / StartUp Founder / Full-Stack Dev)`**
-### **`(Scientific Popularizer / Coffee Philosopher)`**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🛠️ My Tech Stack
 
@@ -41,6 +33,15 @@
 </div>
 
 ---
+### **`Pro-Dev | Sci-Tech`**
+
+
+
+
+### **`(Programmer  / Full-Stack Dev)`**
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🌐 Let's Connect
 
