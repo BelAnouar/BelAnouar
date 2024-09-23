@@ -63,7 +63,7 @@
 
 ## 🔥 **What I'm Working On**
 
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**
+- 🌱 I’m currently learning **TypeScript** , **GraphQL**  and **AWS**
 - 🚀 Building a **Next.js** project for a client
 - 💼 Exploring **DevOps** with **Docker** and **Kubernetes**
 
