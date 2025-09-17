@@ -1,70 +1,112 @@
-<h2 align="left">👋 Hi, I’m @BelAnouar</h2>
+# Hi there! 👋 I'm Anouar Belhassan
 
-<p align="left">
-    <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
-    I'm a passionate **Full-Stack Developer** with a strong foundation in **Sci-Tech**. From designing dynamic user interfaces to solving back-end challenges, I enjoy building efficient and scalable solutions. 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Java+%7C+Spring+Enthusiast;Microservices+Architect;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</div>
+
+<p align="center">
+  <img align="right" alt="Coding Animation" width="300" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+  
+  **Passionate Full-Stack Developer** with expertise in **Java ecosystem** and modern web technologies. I love building scalable microservices architectures and creating seamless user experiences. Currently diving deep into **Cloud technologies** and **DevOps practices**.
 </p>
 
-### **`Pro-Dev | Sci-Tech Enthusiast`**
+<br clear="right"/>
 
+## 🚀 About Me
+
+- 🎓 **Full-Stack Development** student at **YouCode (UM6P)**
+- 💼 Former **Java Developer** at **GIANT LINK** & **Full-Stack Developer** at **Groupe OCP**
+- 🌱 Currently mastering **TypeScript**, and **Kubernetes**
+- 🏗️ Specialized in **Microservices Architecture** and **Spring Boot** ecosystem
+- 🎯 Passionate about **Clean Code**, **TDD**, and **Agile Methodologies**
 
 ---
 
-## 🌟 **My Tech Stack**
+## 🛠️ Tech Arsenal
 
+### **Backend & Frameworks**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,php,laravel" />
+</div>
+
+### **Frontend & Mobile**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,typescript,javascript,html,css,tailwindcss,bootstrap" />
+</div>
+
+### **Databases & Cloud**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,oracle,aws,docker,kubernetes" />
+</div>
+
+### **Tools & DevOps**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,figma,linux,selenium" />
 </div>
 
 ---
 
-## 📈 **GitHub Stats**
+## 📊 GitHub Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelAnouar&show_icons=true&theme=radical" alt="BelAnouar's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelAnouar&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BelAnouar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelAnouar&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelAnouar&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🤝 **Let's Connect**
 
-<div align="left">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="https://www.linkedin.com/in/anouar-belhassan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+## 💼 Professional Experience
+
+**🔹 Java Developer** @ **GIANT LINK** *(June 2024 - August 2024)*
+- Developed AI module for Jalios JPlatform using OpenAI integration
+- Technologies: Java JEE, HTML, Sass, JavaScript, jQuery
+
+**🔹 Full-Stack Developer** @ **Groupe OCP** *(March 2023)*
+- Built comprehensive job tracking dashboard with automation testing
+- Technologies: Spring Boot, Next.js, Tailwind CSS, REST API, Robot Framework
+
+---
+
+## 🎓 Education & Certifications
+
+- **🎓 Full-Stack Development** - YouCode Safi (UM6P) *(2023-2025)*
+- **🎓 Digital Development Technician** - ISTA Safi *(2021-2023)*
+- **🎓 Computer Systems & Networks** - BTS Safi *(2020-2021)*
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouar-belhassan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwarbelhassan@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BelAnouar)
+
 </div>
 
 ---
 
-## 🔥 **What I'm Working On**
+## 📈 Contribution Activity
 
-- 🌱 I’m currently learning **TypeScript** , **GraphQL**  and **AWS**
-- 🚀 Building a **Next.js** project for a client
-- 💼 Exploring **DevOps** with **Docker** and **Kubernetes**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BelAnouar&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
 
-Feel free to check out my projects or reach out if you'd like to collaborate!
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thank you for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=BelAnouar&color=brightgreen&style=flat-square)
+
+</div>
