@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based%20in-Safi%2C%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based%20in-Casablanca%2C%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6-0F2027?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Profile%20Views-counter-blue?style=for-the-badge&label=Views&color=36BCF7" />
 
@@ -36,7 +36,7 @@
 public class AnouarBelhassan {
 
     private final String role      = "Java Developer | Spring Boot";
-    private final String location  = "Safi, Morocco 🇲🇦";
+    private final String location  = "Casablanca, Morocco 🇲🇦";
     private final String education = "YouCode (UM6P) – Full Stack Development";
 
     private final String[] focus = {
